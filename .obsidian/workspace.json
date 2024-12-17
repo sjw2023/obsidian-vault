@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developing.md",
+                "file": "Language/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Developing"
+              "title": "Java"
             }
           }
         ],
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing.md",
+                "file": "Language/Java.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Developing"
+              "title": "Backlinks for Java"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing.md",
+                "file": "Language/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Developing"
+              "title": "Outgoing links from Java"
             }
           },
           {
@@ -152,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing.md"
+                "file": "Language/Java.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Developing"
+              "title": "Outline of Java"
             }
           },
           {
@@ -188,11 +188,21 @@
   },
   "active": "a581477a8c78605c",
   "lastOpenFiles": [
-    "Untitled",
-    "2024-12-18.md",
+    "Language/spring-boot.md",
+    "Language/Java.md",
+    "Development.md",
+    "Tools/kubernetes.md",
+    "Howto",
+    "Tools/docker.md",
+    "Language/go.md",
     "Untitled.canvas",
-    "Developing.md",
-    "Untitled.md",
+    "Tools/neovim.md",
+    "Language/javascript.md",
+    "Language/swift.md",
+    "Language/dotnet.md",
+    "Language",
+    "Tools",
+    "2024-12-18.md",
     "desktop.ini"
   ]
 }
