@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment Variables.md",
+                "file": "Lua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environment Variables"
+              "title": "Lua"
+            }
+          },
+          {
+            "id": "41fac1f3ea450d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot - Gradle Kotlin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot - Gradle Kotlin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,12 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fc2d9658afaf2d9",
+  "active": "41fac1f3ea450d0b",
   "lastOpenFiles": [
-    "Tools/neovim.md",
     "Lua.md",
-    "Environment Variables.md",
+    "Spring Boot - Gradle Kotlin.md",
     "Development.md",
+    "Environment Variables.md",
+    "Tools/neovim.md",
     "Language/Java.md",
     "Language/spring-boot.md",
     "Tools/kubernetes.md",
