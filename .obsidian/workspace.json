@@ -11,155 +11,17 @@
             "id": "6fc2d9658afaf2d9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "a581477a8c78605c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Java.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
-            }
-          },
-          {
-            "id": "4ce6db98402f6cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/kubernetes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kubernetes"
-            }
-          },
-          {
-            "id": "396beb299aa1099b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Windows/Windows PowerShell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows PowerShell"
-            }
-          },
-          {
-            "id": "d3ae85435c59e59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Development"
-            }
-          },
-          {
-            "id": "04d69890db66487a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
-            "id": "5d75f35fb0e48db9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Create and Build spring boot with CLI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Create and Build spring boot with CLI"
-            }
-          },
-          {
-            "id": "f144fa3bf3ee4a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "f5a70fc94c5e231f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git - Removing files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git - Removing files"
-            }
-          },
-          {
-            "id": "fc992e4a32a79eb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "0c21e5b455ede281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Branching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Branching"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "442a069aeef2888d",
@@ -231,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/kubernetes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for kubernetes"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -276,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -292,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -309,13 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c21e5b455ede281",
+  "active": "e78a6259868eb08c",
   "lastOpenFiles": [
+    "Language/Java.md",
+    "Tools/kubernetes.md",
+    "Tools/Windows/Windows PowerShell.md",
+    "Development.md",
+    "Create and Build spring boot with CLI.md",
     "Git.md",
+    "Git - Removing files.md",
     "Git Branching.md",
     "conflict-files-obsidian-git.md",
-    "Git - Removing files.md",
-    "Create and Build spring boot with CLI.md",
     "Setting up Java Environment variables.md",
     "CIP Library.md",
     "Lua.md",
@@ -323,17 +192,13 @@
     "Spring Boot - Gradle Kotlin.md",
     "Environment Variables.md",
     "NVIM-JDTLS.md",
-    "Development.md",
-    "Tools/kubernetes.md",
     "Tools/docker.md",
-    "Tools/Windows/Windows PowerShell.md",
     "Tools/Windows/neovim.md",
     "Tools/Windows/GlazeWM.md",
     "Language/swift.md",
     "Language/spring-boot.md",
     "Language/javascript.md",
     "Language/go.md",
-    "Language/Java.md",
     "Language/dotnet.md",
     "Tools/Windows.md",
     "Tools/Windows",
